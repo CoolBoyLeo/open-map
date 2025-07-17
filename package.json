@@ -1,0 +1,16 @@
+{
+  "name": "open-map",
+  "version": "1.0.0",
+  "description": "Open Map 是一个致力于共建 **开放地理数据资源库** 的开源项目，目标是使用统一的 GeoJSON 格式，聚合各类 POI（兴趣点）数据，如停车场、露营地、充电桩、公厕、洗车站等，为不同应用提供一致、标准、可复用的数据基础。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^1.10.0",
+    "csv-parser": "^3.2.0",
+    "dotenv": "^17.2.0"
+  }
+}
