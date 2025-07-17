@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "name": "广东避暑推荐景点",
+  "icon": "❄️",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.26921962646436, 24.206975094307776]
+      },
+      "properties": {
+        "address": "广东清远笔架山",
+        "description": "青龙湖、笔架山大瀑布、青龙峡漂流，溪流与树荫凉爽，还有滑索玻璃滑梯。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.73901599938506, 23.68141498091375]
+      },
+      "properties": {
+        "address": "广东肇庆四会奇石河",
+        "description": "银龙大瀑布、玻璃悬桥、漂流和小黄河，空气好，人少，适合避暑休闲。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.56429324215773, 23.16619963703768]
+      },
+      "properties": {
+        "address": "广东肇庆鼎湖山",
+        "description": "泼水节、溪流、小瀑布、避暑山庄、飞水潭，适合带娃亲子游，有观光车。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.23499646927789, 22.26440087580183]
+      },
+      "properties": {
+        "address": "广东茂名高州仙人洞",
+        "description": "壮观瀑布、杂技表演、飞天仙女、摇摆桥，爬山凉爽，交通较远，适合深度游。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.4133836971231, 39.910924547299565]
+      },
+      "properties": {
+        "address": "广东清远古龙峡",
+        "description": "清远漂流天花板，漂流、悬崖飞车、峡道飞车、玻璃栈桥，多样刺激项目。"
+      }
+    }
+  ]
+}

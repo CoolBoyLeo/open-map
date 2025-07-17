@@ -1,0 +1,399 @@
+{
+  "type": "FeatureCollection",
+  "name": "商场免费停车",
+  "icon": "\uD83C\uDD7F\uFE0F",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.06686865632753,
+          22.575424137123587
+        ]
+      },
+      "properties": {
+        "address": "深圳福田卓悦汇购物中心",
+        "description": "任意消费并积分可获赠1张2h停车优惠券"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.07150283479086,
+          22.537449366223445
+        ]
+      },
+      "properties": {
+        "address": "深圳福田卓悦INTOWN",
+        "description": "新注册会员任意消费并积分自动派发停车券，免费停车2小时。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.07688871530472,
+          22.562456029627953
+        ]
+      },
+      "properties": {
+        "address": "深圳福田深业上城",
+        "description": "新注册成为银卡会员免费停车1h；非会员15分钟内免费停车"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.08951287212392,
+          22.548726417816532
+        ]
+      },
+      "properties": {
+        "address": "深圳福田中航城君尚",
+        "description": "新注册会员当日消费满100元并积分免费停车2h"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.07148639580004,
+          22.53031541161565
+        ]
+      },
+      "properties": {
+        "address": "深圳福田kk one",
+        "description": "成为会员每月首单消费赠6h停车券（3张*2小时）；当日单笔消费满200元并积分赠2h免费停车券。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.02654399148959,
+          22.542549886384627
+        ]
+      },
+      "properties": {
+        "address": "深圳福田东海缤纷天地",
+        "description": "全场单笔消费满50元可免3h停车费；凭英皇电影城(东海店)票根，免3h停车费，可叠加消费免停优惠且最多可免5h。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.09028819960933,
+          22.547082112719753
+        ]
+      },
+      "properties": {
+        "address": "深圳福田世纪汇广场",
+        "description": "当日累计消费188元升级为贵宾卡，每日每车享3h免费停车。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0366777759443,
+          22.530827752191442
+        ]
+      },
+      "properties": {
+        "address": "深圳福田中洲湾",
+        "description": "会员任意消费并积分赠2h停车券；普卡会员每月2h（1张*2小时）。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.01800928067266,
+          22.55096532784502
+        ]
+      },
+      "properties": {
+        "address": "深圳深圳印力中心",
+        "description": "山姆会员店单笔消费满50元，凭当日对应消费小票可免首2小时停车【微信小程序自助扫码减免】；新注册普卡会员当日累计消费满300元并集星贝可领1h(10元)停车抵用券。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.11615957794925,
+          22.570815511306357
+        ]
+      },
+      "properties": {
+        "address": "深圳罗湖宝能环球汇",
+        "description": "新注册就是银卡会员，当天首停享3小时以内免费时长，还可叠加积分优惠100分=5元停车费。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14103302869846,
+          22.58381802820709
+        ]
+      },
+      "properties": {
+        "address": "深圳罗湖天河城",
+        "description": "新注册成为会员teem卡，每日首次入场享2h免费停车；单笔消费满99元并积分，赠1h停车券，可与其它优惠叠加。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9932986028818,
+          22.55105352834867
+        ]
+      },
+      "properties": {
+        "address": "深圳南山欢乐时光",
+        "description": "新注册成为积分卡会员，每日可享受2h免费停车"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9771627003336,
+          22.5288219433071
+        ]
+      },
+      "properties": {
+        "address": "深圳深圳湾睿印RAIL IN",
+        "description": "新注册成为会员营业时间内免费停车3小时；任意消费并积分加赠免费停车2小时。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.00500900333657,
+          22.596665484310652
+        ]
+      },
+      "properties": {
+        "address": "深圳西丽宝能环球汇",
+        "description": "新注册就是银卡会员，当天首停享3小时以内免费时长，还可叠加积分优惠100分=5元停车费。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9464408315636,
+          22.50519008861821
+        ]
+      },
+      "properties": {
+        "address": "深圳宝能allcity南山店",
+        "description": "新注册就是银卡会员，当天首停享3小时以内免费时长，还可叠加积分优惠100分=5元停车费。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.89678762332983,
+          22.509751016392084
+        ]
+      },
+      "properties": {
+        "address": "深圳前海印里",
+        "description": "新注册就是普卡会员，当日累计消费满50元并积分，凭当日小票可免首2h停车;每100积分抵扣5元停车费。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.97580284545306,
+          22.53667692789907
+        ]
+      },
+      "properties": {
+        "address": "深圳南山京基百纳广场",
+        "description": "首小时免费；新入会会员获赠50积分+2小时停车券，首笔消费再赠100积分，50积分可抵5元停车费(1小时)。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9268569629776,
+          22.540991126897865
+        ]
+      },
+      "properties": {
+        "address": "深圳南山欢乐颂",
+        "description": "首小时免费；会员当日累计消费满500元并完成积分，送2小时停车优惠券"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.89206810584308,
+          22.550061707479347
+        ]
+      },
+      "properties": {
+        "address": "深圳深圳欢乐港湾",
+        "description": "新注册成为积分卡会员工作日首次停车免费2小时，非工作日当日累计消费满200元并完成积分可享受免费停车2小时。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.91241876801215,
+          22.56618228319481
+        ]
+      },
+      "properties": {
+        "address": "深圳海雅缤纷城",
+        "description": "注册成为会员就享2小时免费停车"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.06899647258831,
+          22.60871058813971
+        ]
+      },
+      "properties": {
+        "address": "深圳龙岗星河world cocopark",
+        "description": "新注册成为V卡会员每日免停1h"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.23083124066824,
+          22.735658100190133
+        ]
+      },
+      "properties": {
+        "address": "深圳深圳仁恒梦中心",
+        "description": "新注册会员首月即可获赠2张2小时停车优惠券，有效期自注册日起90天内。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.25489540798378,
+          22.731071579093047
+        ]
+      },
+      "properties": {
+        "address": "深圳宝能allcity龙岗店",
+        "description": "新注册就是银卡会员，当天首停享3小时以内免费时长，还可叠加积分优惠100分=5元停车费。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.03376097795437,
+          22.655783974655055
+        ]
+      },
+      "properties": {
+        "address": "深圳龙华壹方天地",
+        "description": "新注册成为微卡会员送100积分，可兑换10元停车券=2小时免费停车"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.33624721256824,
+          22.68533336073915
+        ]
+      },
+      "properties": {
+        "address": "深圳坪山天虹",
+        "description": "新注册即成为银卡会员，凭消费时进行天虹积分满50元享免费停车3小时（消费积分前需绑定车牌)。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.90064279125518,
+          22.781404622170033
+        ]
+      },
+      "properties": {
+        "address": "深圳光明大仟里MAXLAND",
+        "description": "注册即成为微卡会员，当日消费满99元并积分免费停车2小时。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.31218151813333,
+          22.59668058264707
+        ]
+      },
+      "properties": {
+        "address": "深圳深圳大梅沙8号仓",
+        "description": "免费送300积分兑换2.5h或3h免费停车券。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.42541831746169,
+          22.63013446342061
+        ]
+      },
+      "properties": {
+        "address": "深圳深圳葵涌花生唐购物中心",
+        "description": "任意店铺消费即可办理免费停车3小时（麦当劳/小米之家等）"
+      }
+    }
+  ]
+}

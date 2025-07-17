@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "name": "深圳露营区",
+  "icon": "⛺",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.10865827779065, 22.551842657469265]
+      },
+      "properties": {
+        "address": "深圳荔枝公园",
+        "description": "北门大草坪（单月）、浸月桥边草坪（双月）"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.28899102128999, 40.44463402507714]
+      },
+      "properties": {
+        "address": "深圳莲花山公园",
+        "description": "风筝草坪、深业上城连廊草坪"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.08554981770686, 22.586127271149145]
+      },
+      "properties": {
+        "address": "深圳相思林公园",
+        "description": "相思广场"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.08490420553706, 22.558081598368453]
+      },
+      "properties": {
+        "address": "深圳深圳中心公园",
+        "description": "全园草坪"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.03658587929067, 22.567979876261294]
+      },
+      "properties": {
+        "address": "深圳梅林山公园",
+        "description": "古荔区西门荔枝林"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.08651899952126, 22.56812296515246]
+      },
+      "properties": {
+        "address": "深圳笔架山公园",
+        "description": "滚球场大草坪、天趣谷草坪、桉树林"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.96823426221178, 22.562706591251786]
+      },
+      "properties": {
+        "address": "深圳大沙河公园",
+        "description": "山顶晴雨廊对面草坪、三生亭下边草坪"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.31583393850514, 22.603607122326782]
+      },
+      "properties": {
+        "address": "深圳内湖公园",
+        "description": "3号桥旁圆形广场、5号桥两侧场地"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.12687995590179, 22.572203980633514]
+      },
+      "properties": {
+        "address": "深圳洪湖公园",
+        "description": "绿天坪"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.96953662553972, 22.524947696034108]
+      },
+      "properties": {
+        "address": "深圳深圳湾公园",
+        "description": "海风运动公园"
+      }
+    }
+  ]
+}
