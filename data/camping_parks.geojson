@@ -8,12 +8,11 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.102313,
-          22.545539
+          114.101218,
+          22.548195
         ]
       },
       "properties": {
-        "name": "深圳露营区",
         "address": "深圳荔枝公园",
         "description": "北门大草坪（单月）、浸月桥边草坪（双月）"
       }
@@ -23,12 +22,11 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.058673,
-          22.553594
+          114.060234,
+          22.550044
         ]
       },
       "properties": {
-        "name": "深圳露营区",
         "address": "深圳莲花山公园",
         "description": "风筝草坪、深业上城连廊草坪"
       }
@@ -38,12 +36,11 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.057939,
-          22.543527
+          114.08554981770686,
+          22.586127271149145
         ]
       },
       "properties": {
-        "name": "深圳露营区",
         "address": "深圳相思林公园",
         "description": "相思广场"
       }
@@ -53,12 +50,11 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.077619,
-          22.550295
+          114.078784,
+          22.551710
         ]
       },
       "properties": {
-        "name": "深圳露营区",
         "address": "深圳深圳中心公园",
         "description": "全园草坪"
       }
@@ -68,12 +64,11 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.03439,
-          22.562528
+          114.040106,
+          22.572035
         ]
       },
       "properties": {
-        "name": "深圳露营区",
         "address": "深圳梅林山公园",
         "description": "古荔区西门荔枝林"
       }
@@ -83,12 +78,11 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.080876,
-          22.562893
+          114.08651899952126,
+          22.56812296515246
         ]
       },
       "properties": {
-        "name": "深圳露营区",
         "address": "深圳笔架山公园",
         "description": "滚球场大草坪、天趣谷草坪、桉树林"
       }
@@ -98,12 +92,11 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          113.961327,
-          22.556822
+          113.962212,
+          22.554212
         ]
       },
       "properties": {
-        "name": "深圳露营区",
         "address": "深圳大沙河公园",
         "description": "山顶晴雨廊对面草坪、三生亭下边草坪"
       }
@@ -113,12 +106,11 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.309256,
-          22.597907
+          113.950667,
+          22.512992
         ]
       },
       "properties": {
-        "name": "深圳露营区",
         "address": "深圳内湖公园",
         "description": "3号桥旁圆形广场、5号桥两侧场地"
       }
@@ -128,12 +120,11 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          114.119869,
-          22.565247
+          114.120058,
+          22.568860
         ]
       },
       "properties": {
-        "name": "深圳露营区",
         "address": "深圳洪湖公园",
         "description": "绿天坪"
       }
@@ -143,12 +134,11 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          113.972602,
-          22.518968
+          113.944279,
+          22.486155
         ]
       },
       "properties": {
-        "name": "深圳露营区",
         "address": "深圳深圳湾公园",
         "description": "海风运动公园"
       }
